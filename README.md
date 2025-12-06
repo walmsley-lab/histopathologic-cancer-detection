@@ -21,6 +21,7 @@ images while handling class imbalance and subtle visual differences.
 
 ## Repository Structure
 
+<pre>
 histopathologic-cancer-detection/
 ├── notebook/ # Kaggle-compatible experiment notebook
 ├── results/
@@ -30,6 +31,7 @@ histopathologic-cancer-detection/
 ├── models/ # Trained model checkpoints (.pth)
 ├── README.md
 └── requirements.txt
+</pre>
 
 ## Models Evaluated
 
