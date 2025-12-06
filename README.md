@@ -5,6 +5,13 @@ histopathologic image patches (tumor vs. healthy tissue) using convolutional
 neural networks. The work was developed and evaluated using the
 PCam (PatchCamelyon) dataset and executed primarily in a Kaggle environment.
 
+## Class Submission
+
+This work was completed for an online class - please do not rely on this summary.  
+Review the Juypeter notebook. It will contain the answers to the five prompt 
+questions as well as the code. Please refer to the plot renderings included 
+in the results/benchmark_plots folder or pull up the Kaggle and run them yourself.
+
 ## Problem Overview
 
 The task is to classify small histopathologic image patches as either containing
@@ -23,9 +30,6 @@ histopathologic-cancer-detection/
 ├── models/ # Trained model checkpoints (.pth)
 ├── README.md
 └── requirements.txt
-
-ruby
-Copy code
 
 ## Models Evaluated
 
