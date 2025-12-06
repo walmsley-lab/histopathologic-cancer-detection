@@ -72,7 +72,8 @@ These include:
 
 The primary workflow is designed to run inside Kaggle.
 
-1. Upload the repository notebook to Kaggle
+1. Upload the repository notebook to Kaggle or open existing project
+https://www.kaggle.com/code/walmsleylab/cancer-detection-with-cnn-and-refined-models
 2. Attach the PCam dataset
 3. Run all cells sequentially
 4. Download outputs from `/kaggle/working/results`
