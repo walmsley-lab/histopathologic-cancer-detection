@@ -5,12 +5,12 @@ histopathologic image patches (tumor vs. healthy tissue) using convolutional
 neural networks. The work was developed and evaluated using the
 PCam (PatchCamelyon) dataset and executed primarily in a Kaggle environment.
 
-## Class Submission
+## Important
 
-This work was completed for an online class - please do not rely on this summary.  
-Review the Juypeter notebook. It will contain the answers to the five prompt 
-questions as well as the code. Please refer to the plot renderings included 
-in the results/benchmark_plots folder or pull up the Kaggle and run them yourself.
+The Juypeter notebook will contain justifications and analysis as well as code. 
+Please refer to the plot renderings in results/benchmark_plots or run them in Kaggle.
+
+https://www.kaggle.com/code/walmsleylab/cancer-detection-with-cnn-and-refined-models
 
 ## Problem Overview
 
@@ -60,7 +60,8 @@ with significantly reduced training time.
 
 ## Results and Visualizations
 
-All plots and evaluation artifacts generated during training are saved under results/plots/ with samples given in results/benchmark_plots.
+All plots and evaluation artifacts generated during training 
+are saved under results/plots/ with samples given in results/benchmark_plots.
 
 These include:
 - ROC curves
